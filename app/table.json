@@ -1,0 +1,42 @@
+[
+    {
+		"name": "3 year tracker",
+		"monthlyRepayments": 798.41,
+		"maxLtv": 80,
+		"interestRate": 2.59,
+		"overallCost": 4.0,
+		"productFee": 799
+    },
+    {
+		"name": "2 year tracker",
+		"monthlyRepayments": 1038.73,
+		"maxLtv": 60,
+		"interestRate": 1.29,
+		"overallCost": 3.0,
+		"productFee": 899
+    },
+    {
+		"name": "5 year fixed",
+		"monthlyRepayments": 1285.23,
+		"maxLtv": 90,
+		"interestRate": 4.29,
+		"overallCost": 6.0,
+		"productFee": 499
+    },
+    {
+		"name": "3 year fixed",
+		"monthlyRepayments": 682.47,
+		"maxLtv": 85,
+		"interestRate": 3.29,
+		"overallCost": 4.0,
+		"productFee": 699
+    },
+    {
+		"name": "2 year fixed",
+		"monthlyRepayments": 439.02,
+		"maxLtv": 80,
+		"interestRate": 2.29,
+		"overallCost": 3.0,
+		"productFee": 999
+    }
+]
